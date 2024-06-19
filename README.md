@@ -1,4 +1,4 @@
-Projeto Replica da plataforma Netflix Esportivo usando Django e Bootstrap
+Projeto Réplica da plataforma Netflix Esportivo usando Django e Bootstrap
 Este projeto foi desenvolvido como parte de um curso utilizando Python com o framework Django e Bootstrap para criação de um site inspirado no Netflix, 
 focado em conteúdo esportivo. 
 Abaixo estão detalhadas as principais funcionalidades e características do projeto:
